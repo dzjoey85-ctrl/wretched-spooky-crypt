@@ -1,0 +1,8 @@
+ROWAN ↔ GITHUB CONNECTION TEST
+
+If you're reading this on GitHub, the ChatGPT GitHub connector successfully wrote directly to this repository.
+
+Test date: 2026-10-30
+Repository: dzjoey85-ctrl/wretched-spooky-crypt
+
+Connection confirmed. Agent Arena can begin here.
